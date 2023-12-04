@@ -1,0 +1,260 @@
+CRITICAL - 2023-12-03 00:08:44 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 20.
+ 1 APPPATH\Views\students\form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(34): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->edit('0')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 00:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 00:11:27 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 20.
+ 1 APPPATH\Views\students\form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 00:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 00:13:49 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 20.
+ 1 APPPATH\Views\students\form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 00:14:55 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 20.
+ 1 APPPATH\Views\students\form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 00:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 00:16:00 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 19.
+ 1 APPPATH\Views\students\form.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 19)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 00:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 00:18:17 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 20.
+ 1 APPPATH\Views\students\form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 00:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 00:42:49 --> Undefined variable $students
+in APPPATH\Views\students\form.php on line 20.
+ 1 APPPATH\Views\students\form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 00:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 00:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 00:55:12 --> Undefined variable $student
+in APPPATH\Views\students\form.php on line 21.
+ 1 APPPATH\Views\students\form.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 21)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(25): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 01:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 01:01:49 --> Undefined variable $student
+in APPPATH\Views\students\form.php on line 21.
+ 1 APPPATH\Views\students\form.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 21)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 01:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 01:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 01:03:08 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 22.
+ 1 APPPATH\Views\students\form.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 01:03:38 --> Undefined variable $students
+in APPPATH\Views\students\form.php on line 22.
+ 1 APPPATH\Views\students\form.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 01:05:23 --> Undefined variable $career
+in APPPATH\Views\students\form.php on line 23.
+ 1 APPPATH\Views\students\form.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $career', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 01:05:55 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\students\form.php on line 23.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 3 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 01:06:08 --> Undefined variable $career
+in APPPATH\Views\students\form.php on line 24.
+ 1 APPPATH\Views\students\form.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $career', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 01:06:28 --> Undefined variable $career
+in APPPATH\Views\students\form.php on line 24.
+ 1 APPPATH\Views\students\form.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $career', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-03 01:06:37 --> Undefined variable $career
+in APPPATH\Views\students\form.php on line 24.
+ 1 APPPATH\Views\students\form.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $career', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 01:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 22:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 23:19:44 --> Undefined array key "address"
+in APPPATH\Views\students\index.php on line 37.
+ 1 APPPATH\Views\students\index.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "address"', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\index.php', 37)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/index', [], true)
+ 5 APPPATH\Controllers\Student.php(19): view('students/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 23:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-03 23:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 23:36:04 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 22.
+ 1 APPPATH\Views\students\form.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 23:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-03 23:37:05 --> Undefined variable $careers
+in APPPATH\Views\students\form.php on line 22.
+ 1 APPPATH\Views\students\form.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $careers', 'C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ISW\\workshop9\\week9\\codeigniter4\\app\\Views\\students\\form.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('students/form', [], true)
+ 5 APPPATH\Controllers\Student.php(26): view('students/form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Student->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-03 23:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
